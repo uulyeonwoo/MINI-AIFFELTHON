@@ -23,6 +23,7 @@
 - YOLO 기반 객체 탐지 모델을 활용한 주요 이벤트 탐지
 - 사용자가 직관적으로 경기 상황을 이해할 수 있도록 최적화된 정보 제공
 
+https://github.com/yastrebksv/TennisProject/tree/main?tab=readme-ov-file
 ## 테니스 영상 해설
 - 모델 처리 전 영상
 <img src = "image/1캡처.JPG" width="50%" height="50%"/>
